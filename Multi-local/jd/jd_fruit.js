@@ -31,7 +31,7 @@ let shareCodes = [ // 这个列表填入你要助力的好友的shareCode
     'dff71df36c8b47c1a6abc87380e23533',     //闫传深教
     '246ff87d28de4567bc1a02ac4496b521',     //HO丶
     'cbab5f7faf7f45f29e2e33bb24a1dae5',     //Temperate
-    // 'cc2dc09626d14b9d8a8e4c5e2f052447'      //fw
+    '78581af512a34039b52d419075d9237e'      //HO丶
 ]
 // 添加box功能
 // 【用box订阅的好处】

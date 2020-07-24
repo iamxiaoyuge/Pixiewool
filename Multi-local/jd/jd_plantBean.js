@@ -29,7 +29,7 @@ var plantUuids = [ // 这个列表填入你要助力的好友的plantUuid
     '4npkonnsy7xi3uhqhsiw7yze5ju2uucarbmezoi',      //闫传深教
     'lqq7s7ducgfypxd3tlcsqmcehvmykruc3ufguuy',      //HO丶
     'ayv6ue6obie3ygr3zizg534ic43h7wlwy7o5jii',      //Temperate
-    // 'kziyh3nw3tpxz25qkln3xdez5g5sfkxcdwciomy',      //fw
+    '5htjgxhaayy3hggnmua3wtsvvy3h7wlwy7o5jii',      //HO丶
 ]
 let currentRoundId = null;//本期活动id
 let lastRoundId = null;//上期id
