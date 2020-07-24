@@ -27,6 +27,7 @@ let shareCodes = [ // 这个列表填入你要助力的好友的shareCode, 最�
     'MTAxODc2NTEzMzAwMDAwMDAyODI1ODY0Nw==',     //HO丶
     'MTAxODc2NTE0NzAwMDAwMDAyMDUwMTM4Mw==',     //Temperate
     'MTAxODc2NTEzMzAwMDAwMDAzMTA4NjE1OQ=='      //HO丶
+    'MTAxODc2NTEzMjAwMDAwMDAzMTA4MjQyMQ=='      //胡大虫
 ]
 // 添加box功能
 // 【用box订阅的好处】

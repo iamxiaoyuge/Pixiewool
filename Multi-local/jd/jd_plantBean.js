@@ -30,6 +30,7 @@ var plantUuids = [ // 这个列表填入你要助力的好友的plantUuid
     'lqq7s7ducgfypxd3tlcsqmcehvmykruc3ufguuy',      //HO丶
     'ayv6ue6obie3ygr3zizg534ic43h7wlwy7o5jii',      //Temperate
     '5htjgxhaayy3hggnmua3wtsvvy3h7wlwy7o5jii',      //HO丶
+    '4npkonnsy7xi3ji2o2iguqv2msx6xzt5onpcb5q',      //胡大虫
 ]
 let currentRoundId = null;//本期活动id
 let lastRoundId = null;//上期id
