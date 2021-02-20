@@ -2,6 +2,6 @@
  "name": "snap task gallery",
  "description": "https://gitee.com/lxk0301/jd_scripts/tree/master",
  "task": [
-    "0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/js_redpacket.js, tag=京东极速版天天领红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+    "0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_speed_redpocke.js, tag=京东极速版天天领红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
   ]
 }
