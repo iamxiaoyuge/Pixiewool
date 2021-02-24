@@ -3,6 +3,5 @@
  "description": "https://gitee.com/lxk0301/jd_scripts/tree/master",
  "task": [
     "0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_speed_redpocke.js, tag=京东极速版天天领红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
-    "5 0 * * * https://raw.githubusercontent.com/iamxiaoyuge/Pixiewool/master/Quantumultx/jd_plusmh.js, tag=PLUS会员盲盒抽京豆, enabled=true"
   ]
 }
